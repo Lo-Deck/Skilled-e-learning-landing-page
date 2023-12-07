@@ -23,6 +23,7 @@ body{
   font-weight: 500;
   font-family: 'Plus Jakarta Sans', sans-serif;
   text-align: left;
+  overflow-x: hidden;
 }
 
 body > :not(footer){
